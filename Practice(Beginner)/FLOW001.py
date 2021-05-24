@@ -1,6 +1,7 @@
 '''
     Problem Name: Add Two Numbers
     Problem Code: FLOW001
+    Problem Type: https://www.codechef.com/problems/school
     Problem Link: https://www.codechef.com/problems/FLOW001
     Solution Link: https://www.codechef.com/viewsolution/46835083
 '''

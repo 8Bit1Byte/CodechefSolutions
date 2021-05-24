@@ -1,6 +1,7 @@
 '''
     Problem Name: Enormous Input Test
     Problem Code: INTEST
+    Problem Type: https://www.codechef.com/problems/school
     Problem Link: https://www.codechef.com/problems/INTEST
     Solution Link: https://www.codechef.com/viewsolution/46835003
 '''
