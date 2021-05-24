@@ -1,7 +1,8 @@
 '''
     Problem Name: Enormous Input Test
     Problem Code: INTEST
-    https://www.codechef.com/problems/INTEST
+    Problem Link: https://www.codechef.com/problems/INTEST
+    Solution Link: https://www.codechef.com/viewsolution/46835003
 '''
 
 from sys import stdin

@@ -1,7 +1,8 @@
 '''
     Problem Name: Add Two Numbers
     Problem Code: FLOW001
-    https://www.codechef.com/problems/FLOW001
+    Problem Link: https://www.codechef.com/problems/FLOW001
+    Solution Link: https://www.codechef.com/viewsolution/46835083
 '''
 
 from sys import stdin
