@@ -3,7 +3,7 @@ Basically here we can see solution of online judge codechef solutions
 
 It includes solutions to both practice and contest problems from:
 
-- [CodeChef] ([site](https://www.codechef.com/))
+- [CodeChef](https://www.codechef.com/)
 
 
 This repository is personal, made public in the hope that someone may find it useful, but:
