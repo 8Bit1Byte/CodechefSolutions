@@ -2,7 +2,7 @@
     Problem Name: Sum of Digits
     Problem Code: FLOW006
     Problem Type: https://www.codechef.com/problems/school
-    Problem Link: https://www.codechef.com/status/FLOW006
+    Problem Link: https://www.codechef.com/problems/FLOW006
     Solution Link: https://www.codechef.com/viewsolution/46835169
 '''
 

@@ -2,7 +2,7 @@
     Problem Name: Find Remainder
     Problem Code: FLOW002
     Problem Type: https://www.codechef.com/problems/school
-    Problem Link: https://www.codechef.com/status/FLOW002
+    Problem Link: https://www.codechef.com/problems/FLOW002
     Solution Link: https://www.codechef.com/viewsolution/46835115
 '''
 
