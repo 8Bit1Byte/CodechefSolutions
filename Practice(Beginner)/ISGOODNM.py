@@ -2,19 +2,22 @@
     Problem Name: Good Number Or Not 
     Problem Code: ISGOODNM
     Problem Link: https://www.codechef.com/problems/ISGOODNM
-    Solution Link: https://www.codechef.com/viewsolution/
+    Solution Link: https://www.codechef.com/viewsolution/47005382
 '''
 
-
-def print_factors(x):
-    l = []
-    for i in range(1, x + 1):
-        if x % i == 0:
-            l.append(i)
-    return l
+def divisors(m):
+    from math import sqrt
+    l = set()
+    for i in range(1, int(sqrt(m)+1)):
+        if m%i == 0:
+            l.add(i)
+            l.add(m//i)
+    l = list(l)
+    l.sort()
+    return l[:-1]
 
 def solve(n):
-    l = sum(print_factors(n)[:-1])
+    l = sum(divisors(n))
     if l == n:
         return 'YES'
     return 'NO'
