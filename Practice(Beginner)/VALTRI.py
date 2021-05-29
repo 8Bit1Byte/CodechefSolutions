@@ -2,7 +2,7 @@
     Problem Name: Raju and His Trip
     Problem Code: VALTRI
     Problem Link: https://www.codechef.com/YTPP001/problems/VALTRI
-    Solution Link: https://www.codechef.com/viewsolution/
+    Solution Link: https://www.codechef.com/viewsolution/47001689
 '''
 
 def solve(n):
