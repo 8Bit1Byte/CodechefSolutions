@@ -1,2 +1,0 @@
-NAME : 	June Challenge 2021 (Rated for Div 3)
-LINK : https://www.codechef.com/JUNE21C
